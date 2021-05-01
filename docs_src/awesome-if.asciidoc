@@ -67,8 +67,9 @@ ifndef::IsADoc[link:https://git.io/awesome-if[image:../docs/Awesome-IF.png[float
 ifdef::IsADoc[link:https://git.io/awesome-if[+++<img src="docs/Awesome-IF.png" align="right" width="400">+++^,title="Awesome Interactive Fiction"]]
 endif::[]
 
-A curated list of interactive fiction frameworks, tools, and resources.
-Created by https://github.com/yakiradixon[Yakira Dixon^] in 2014, currently maintained by https://github.com/tajmone[Tristano Ajmone^].
+ Customized list highlighting the most relevant interactive fiction frameworks, tools, and resources for wordplay-worlds projects. 
+ 
+ Based on tajmone/awesome-interactive-ficiton by https://github.com/yakiradixon[Yakira Dixon^] in 2014, currently maintained by https://github.com/tajmone[Tristano Ajmone^].
 
 // CC0 Badge:
 link:http://creativecommons.org/publicdomain/zero/1.0/[image:https://img.shields.io/badge/license-CC0-00b5da.svg[alt=CC0]^,title="CC0 1.0 Universal, Public Domain"]
